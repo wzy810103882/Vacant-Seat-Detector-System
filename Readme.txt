@@ -1,0 +1,1 @@
+Track changes were turned after exporting from Google Doc

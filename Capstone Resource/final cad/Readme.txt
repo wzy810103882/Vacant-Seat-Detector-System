@@ -1,0 +1,1 @@
+Case_large and Case_small_slot can be combined to form the entire case and the file beam functions as the connection in between the two pieces of case
